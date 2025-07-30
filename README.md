@@ -1,18 +1,17 @@
-# 🚀 FastAPI Detoxify API
+#  FastAPI Detoxify API
 
 Un projet FastAPI pour analyser la toxicité de commentaires texte avec le modèle **Detoxify** et stocker les résultats dans une base de données **MongoDB**.
 
 ---
 
-## 📌 **Sommaire**
+##  **Sommaire**
 
 - [Pré-requis](#pré-requis)
-- [Installation](#installation)
+- Installation](#installation)
 - [Lancer l'application en local](#lancer-lapplication-en-local)
 - [Construire et exécuter avec Docker](#construire-et-exécuter-avec-docker)
 - [Tester l'API](#tester-lapi)
 - [Connexion à MongoDB](#connexion-à-mongodb)
-- [Déployer sur GitHub](#déployer-sur-github)
 
 ---
 
